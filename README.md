@@ -1,4 +1,4 @@
-# russianroulettedao
+# russianroulettedao Proxy|Backup git
 Russian Roulette is a bear market 'community hedge concept', a hardcore ponzi, that also thrives during the bull season.
 In this experiment we want to explore the effects of extreme taxes and buybacks, coupled with limited batched sells, on sustainability. 
 In order to create a community bear market hedge that also thrives during the bull season.
