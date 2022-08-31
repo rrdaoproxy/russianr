@@ -327,7 +327,7 @@ span#typewrite {/* effect on span */
   font-size: clamp(11px, 1vw, 14px) !important;
   text-transform:uppercase;
 }
-sharelease_win, #win_sharelease .contractpurpose{
+#sharelease_win, #win_sharelease .contractpurpose{
     background: none !important;
     background-image: none !important;
 }
