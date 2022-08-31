@@ -9,4 +9,4 @@ This means no unplanned outflows from the LP, each outflow has to be accounted f
 Again, taxes revenue is used to fund the project operations: buybacks (bornfire events) and treasury to invest for profit ouside the dao.
 We bypass Uniswaps tax limitations by using our contract as proxy to allow 90% sell tax. Try it!
 To get a 10% sell tax, you schedule your sell through: russian roulette or staking 6 months.
-The whole project depends on 3 contracts: main, rebalancing wallet and treasury wallet. All in Solidity 0.84
+The whole project depends on 3 contracts: main, rebalancing wallet and treasury wallet. All contracts written in Solidity 0.84
