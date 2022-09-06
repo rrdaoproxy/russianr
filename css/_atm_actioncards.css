@@ -201,14 +201,12 @@
 .star {
 	z-index: 11;
 	position: absolute;
-	top: 185px;
-	left: 25px;
 	background-image: url('https://ivang-design.com//svg-load/air/star.png');
 	background-size: 15px 15px;
 	width: 15px;
 	height: 15px;
 	opacity: 0.4;
-	animation: starShine 3.5s linear infinite;
+	animation: starShine 3.5s linear 2s;
 	-webkit-transition: all 1200ms linear;
 	transition: all 1200ms linear; 
 }
